@@ -6,7 +6,7 @@ from rollup_aggregates import calculate_daily_summary
 from alerts import monitor_alerts
 
 API_URL = "http://api.openweathermap.org/data/2.5/weather"
-API_KEY = "your_api_key_here"  # Sign up for an API key
+API_KEY = "4df071f9fe5122f051f8804e21c7eda8"  # Sign up for an API key
 
 CITIES = ["Delhi", "Mumbai", "Chennai", "Bangalore", "Kolkata", "Hyderabad"]
 
